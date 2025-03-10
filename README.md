@@ -70,7 +70,7 @@ Top lifters are defined as the top 90th percentile of weights lifted for each We
     - Deadlift: 36.5 years old (85% R2)
 
 
-## Cross-Sex Findings
+**CROSS-SEX**
 
 Drug Tested Population:
 -	For the top totals, across all Weight Groups, females had a significantly higher mean age compared to males. The smallest delta was 1.25 years in the Heavy Weight Group.
