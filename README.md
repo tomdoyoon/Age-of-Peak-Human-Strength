@@ -72,7 +72,6 @@ Top lifters are defined as the top 90th percentile of weights lifted for each We
 
 **CROSS-SEX**
 
-Drug Tested Population:
 -	For the top totals, across all Weight Groups, females had a significantly higher mean age compared to males. The smallest delta was 1.25 years in the Heavy Weight Group.
 -	For the top squats, across all Weight Groups, females had a significantly higher mean age compared to males. The smallest delta was .06 years in the SuperHeavy Weight Group (not significant.
 -	For the top benches, the Middle and Light Weight Groups did not have a significant difference in mean ages across sexes. For the Heavy and Super Heavy Weight Groups, there was not a significant difference.
