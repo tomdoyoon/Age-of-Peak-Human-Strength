@@ -13,9 +13,12 @@ Source: https://openpowerlifting.gitlab.io/opl-csv/files/openipf-latest.zip
 
 # Conclusions
 
-- For males, the peak strength age is around 36-37 years old, while for females, it's around 34-36 years old, depending on the lift (total, squat, bench, or deadlift).
+- For top male lifters, the peak strength age is around 36-37 years old, while for females, it's around 34-36 years old, depending on the lift (total, squat, bench, or deadlift).
 - The LateOpen Age Group (35-40 years old) performs best among males, with the highest mean totals, squats, benches, and deadlifts. For females, the Open Age Group (28-35 years old) performs best in terms of mean totals, squats, and deadlifts.
-- Females tend to reach peak strength at an older age than males, with significant differences in mean age across all weight groups for totals, squats, and deadlifts.
+- Top female lifters tend to reach peak strength at an older age than males, with significant differences in mean age across all weight groups for totals, squats, and deadlifts.
+
+Statistical testing revealed relatively strong relationships between age and strength for top 10% lifters, but this association weakened when considering the entire population of lifters. The XGBoost model achieved a moderate level of accuracy in predicting age based on sex, bodyweight, and strength metrics across all lifters, with an RMSE of 11.00, and predicted AgeGroup (8 classes) with an accuracy of 33%. Interestingly, a strong relationship was found between age and peak strength among top lifters within the top 10%.
+
 
 # Table of Contents
 
