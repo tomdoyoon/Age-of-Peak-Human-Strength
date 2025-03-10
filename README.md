@@ -11,6 +11,12 @@ Admittedly, inherent biases require acknowledgment, notably the exclusivity of d
 The data used for this report was from OpenPowerlifting and was last extracted on March 6, 2025. This page uses data from the OpenPowerlifting project, https://www.openpowerlifting.org.  You may download a copy of the data at https://data.openpowerlifting.org. 
 Source: https://openpowerlifting.gitlab.io/opl-csv/files/openipf-latest.zip
 
+# Conclusions
+
+- For males, the peak strength age is around 36-37 years old, while for females, it's around 34-36 years old, depending on the lift (total, squat, bench, or deadlift).
+- The LateOpen Age Group (35-40 years old) performs best among males, with the highest mean totals, squats, benches, and deadlifts. For females, the Open Age Group (28-35 years old) performs best in terms of mean totals, squats, and deadlifts.
+- Females tend to reach peak strength at an older age than males, with significant differences in mean age across all weight groups for totals, squats, and deadlifts.
+
 # Table of Contents
 
 Please refer to the following table of contents to navigate your exploration:
@@ -76,12 +82,6 @@ Top lifters are defined as the top 90th percentile of weights lifted for each We
 -	For the top squats, across all Weight Groups, females had a significantly higher mean age compared to males. The smallest delta was .06 years in the SuperHeavy Weight Group (not significant.
 -	For the top benches, the Middle and Light Weight Groups did not have a significant difference in mean ages across sexes. For the Heavy and Super Heavy Weight Groups, there was not a significant difference.
 -	For the top deadlifts, across all Weight Groups, females had a significantly higher mean age compared to males. The smallest delta was 2.08 years in the Heavy Weight Group.
-
-# Conclusions
-
-- For males, the peak strength age is around 36-37 years old, while for females, it's around 34-36 years old, depending on the lift (total, squat, bench, or deadlift).
-- The LateOpen Age Group (35-40 years old) performs best among males, with the highest mean totals, squats, benches, and deadlifts. For females, the Open Age Group (28-35 years old) performs best in terms of mean totals, squats, and deadlifts.
-- Females tend to reach peak strength at an older age than males, with significant differences in mean age across all weight groups for totals, squats, and deadlifts.
 
 # Machine Learning Results
 
